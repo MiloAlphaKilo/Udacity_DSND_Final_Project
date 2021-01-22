@@ -39,3 +39,12 @@ The writeup on the project can be found at [Lunkwill and fook](https://lunkwilla
 
 * seaborn
  
+ ## Acknolegements
+
+[Scikit-learn.org](https://scikit-learn.org/stable/index.html#) <br>
+[Precision & Recall](https://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html#sphx-glr-auto-examples-model-selection-plot-precision-recall-py) <br>
+[Confusion Matrix Understanding](https://medium.com/ai-in-plain-english/understanding-confusion-matrix-and-applying-it-on-knn-classifier-on-iris-dataset-b57f85d05cd8) <br>
+[K-nearest neighbors](https://pythonspot.com/k-nearest-neighbors/) <br>
+[Readme Header](https://unsplash.com/photos/ZiQkhI7417A?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
+
+![scikit-learn](./resources/images/scikit-learn-logo-notext.png)
